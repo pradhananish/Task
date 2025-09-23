@@ -1,4 +1,0 @@
-pytest
-httpx
-beautifulsoup4
-pytest-asyncio
